@@ -2758,7 +2758,7 @@
     "tag_en": "Tools & Resources",
     "logo": "/images/cryptio.png",
     "image": ""
-  },
+  }, 
   {
     "name": "De.Fi",
     "name_en": "De.Fi",
@@ -2768,6 +2768,17 @@
     "tag": "DeFi",
     "tag_en": "DeFi",
     "logo": "/images/defi.png",
+    "image": ""
+  },
+  {
+    "name": "Ubiquity DevPool",
+    "name_en": "Ubiquity DevPool",
+    "desc": "解决悬赏，寻找工作，快速扩张您的项目，有效的运行原生的去中心化组织。",
+    "desc_en": "Solve bounties, find work, and blitzscale your project to efficiently run natively decentralized organizations.",
+    "url": "https://dao.ubq.fi/devpool",
+    "tag": "Tools & Resources",
+    "tag_en": "Tools & Resources",
+    "logo": "/images/Ubq.png",
     "image": ""
   }
 ]
