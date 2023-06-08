@@ -2161,7 +2161,7 @@
     "logo": "/images/PocketPortal.png",
     "image": ""
   },
-    {
+  {
     "name": "Blast",
     "name_en": "Blast",
     "desc": "一个 API 平台，为 Gnosis Archive Mainnet 和 Testnet 提供 RPC/WSS API",
@@ -2758,7 +2758,7 @@
     "tag_en": "Tools & Resources",
     "logo": "/images/cryptio.png",
     "image": ""
-  }, 
+  },
   {
     "name": "De.Fi",
     "name_en": "De.Fi",
@@ -2776,7 +2776,7 @@
     "desc": "解决悬赏，寻找工作，快速扩张您的项目，有效的运行原生的去中心化组织。",
     "desc_en": "Solve bounties, find work, and blitzscale your project to efficiently run natively decentralized organizations.",
     "url": "https://dao.ubq.fi/devpool",
-    "tag": "Tools & Resources",
+    "tag": "工具与资源",
     "tag_en": "Tools & Resources",
     "logo": "/images/Ubq.png",
     "image": ""
