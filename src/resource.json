@@ -118,14 +118,14 @@
     "image": ""
   },
   {
-    "name": "DIA",
-    "name_en": "DIA",
-    "desc": "分散式金融的开源数据",
-    "desc_en": "Open-Source Oracles for Decentralised Finance.",
-    "url": "https://diadata.org",
+    "name": "Ubiquity DevPool",
+    "name_en": "Ubiquity DevPool",
+    "desc": "解决悬赏，寻找工作，快速扩张您的项目，有效的运行原生的去中心化组织。",
+    "desc_en": "Solve bounties, find work, and blitzscale your project to efficiently run natively decentralized organizations.",
+    "url": "https://dao.ubq.fi/devpool",
     "tag": "工具与资源",
     "tag_en": "Tools & Resources",
-    "logo": "/images/DIAData.jpeg",
+    "logo": "/images/Ubq.png",
     "image": ""
   },
   {
@@ -197,17 +197,26 @@
     "des_es": "Estamos explorando cómo crear y organizar una comunidad global y usar el dinero mágico de Internet como catalizador."
   },
   {
+    "name": "DIA",
+    "name_en": "DIA",
+    "desc": "分散式金融的开源数据",
+    "desc_en": "Open-Source Oracles for Decentralised Finance.",
+    "url": "https://diadata.org",
+    "tag": "基础设施",
+    "tag_en": "Infrastructure",
+    "logo": "/images/DIAData.jpeg",
+    "image": ""
+  },
+  {
     "name": "WrapEth",
     "name_en": "WrapEth",
     "desc": "xDai 包装器，将xDai 转换为 wxDai",
     "desc_en": "xDai wrapper to convert native xDai to wrapped wxDai",
     "url": "https://wrapeth.com/",
-    "tag": "基础设施",
-    "tag_en": "Infrastructure",
     "logo": "/images/WrapEth.png",
     "image": "",
-    "tag_es": "Infrastructure",
-    "des_es": "Convierte xDai nativo en un contenedor xDai que envuelve wxDai"
+    "tag": "基础设施",
+    "tag_en": "Infrastructure"
   },
   {
     "name": "ARTIS Bridge",
@@ -2768,17 +2777,6 @@
     "tag": "DeFi",
     "tag_en": "DeFi",
     "logo": "/images/defi.png",
-    "image": ""
-  },
-  {
-    "name": "Ubiquity DevPool",
-    "name_en": "Ubiquity DevPool",
-    "desc": "解决悬赏，寻找工作，快速扩张您的项目，有效的运行原生的去中心化组织。",
-    "desc_en": "Solve bounties, find work, and blitzscale your project to efficiently run natively decentralized organizations.",
-    "url": "https://dao.ubq.fi/devpool",
-    "tag": "工具与资源",
-    "tag_en": "Tools & Resources",
-    "logo": "/images/Ubq.png",
     "image": ""
   }
 ]
